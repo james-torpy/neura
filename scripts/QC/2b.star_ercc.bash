@@ -13,11 +13,10 @@ resultsDir="$projectDir/results"
 
 #genome directory
 genome="hg38_ercc"
-
 genomeDir="/home/jamtor/genomes/$genome/"
 
 echo -e
-echo This is the genomeDir:
+echo "This is the genomeDir:"
 echo $genomeDir
 echo -e
 
